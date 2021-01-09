@@ -11,3 +11,5 @@ def del_duplicates(nums):
 
 
 print(del_duplicates([1, 1, 1, 1, 2, 2, 2, 3, 4, 5, 6, 6, 7, 7]))
+print(del_duplicates([1, 1, 2, 2, 3, 5]))
+n
